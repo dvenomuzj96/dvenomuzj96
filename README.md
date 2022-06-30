@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Greetings to all,
 
 I'm trying to improve my developing skillset and I find myself trying out a lot of different things in order to achieve that goal.
-I enjoy designing and writing code. I want to better understand how networks work and memorize the code that I write. I suppoe one language at a time would be good, but I've worked with threedisciplines at once to build a website before and I think I can do it again. 
+I enjoy designing and writing code. I want to better understand how networks work and memorize the code that I write. I suppose one language at a time would be good, but I've worked with threedisciplines at once to build a website before and I think I can do it again. 
